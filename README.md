@@ -2,6 +2,24 @@
 
 Aplicativo web para o dia a dia de um pet shop: agenda de banho e tosa, cadastro de clientes e pets, estoque e caixa. É uma página única em HTML, CSS e JavaScript puro, sem etapa de build.
 
+![Tela inicial do Gestão Pet Shop, com os atendimentos do dia, o caixa e os produtos para repor](imagens/hoje.png)
+
+## Telas
+
+| Agenda | Vendas e caixa |
+| --- | --- |
+| ![Agenda do dia com a semana e o andamento de cada atendimento](imagens/agenda.png) | ![Nova venda com carrinho, forma de pagamento e caixa do dia](imagens/caixa.png) |
+
+| Ficha do cliente | Estoque |
+| --- | --- |
+| ![Ficha do cliente com pets e histórico](imagens/clientes.png) | ![Lista de produtos com situação de estoque](imagens/estoque.png) |
+
+No celular, com tema escuro:
+
+<img src="imagens/celular.png" alt="Tela inicial no celular, em tema escuro" width="300">
+
+As imagens mostram o app com os dados de exemplo.
+
 ## Módulos
 
 - **Hoje**: atendimentos do dia, próximo horário, caixa do dia e produtos para repor.
